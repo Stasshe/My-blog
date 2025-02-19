@@ -12,7 +12,6 @@ const Container = styled.div`
   align-items: center;
   background-color: #111 !important;
   color: #fff !important;
-  padding: 2rem;
   position: absolute;
   top: 0;
   left: 0;
